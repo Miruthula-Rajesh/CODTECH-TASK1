@@ -12,3 +12,4 @@ Perform the chosen operation: Based on the user's choice, we perform the selecte
 Handle division by zero: We include a check to prevent division by zero.
 Close the Scanner object: It’s good practice to close the Scanner when it's no longer needed to free up resources.
 
+
